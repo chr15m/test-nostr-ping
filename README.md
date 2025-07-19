@@ -1,5 +1,7 @@
 Testing Nostr relay ping and disconnect behaviour under Node.js.
 
+Tested on Node v20.17.0.
+
 # Test 1
 
 - No ping heartbeat.
